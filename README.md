@@ -1,4 +1,4 @@
-Funktsioonid Eestikeelseks Date funktsiooniks
+Eesti keelsed tõlked DATE funktsiooniks
 
 <?php
 include('etDayMonth.php');
