@@ -1,4 +1,4 @@
-Eesti keelsed tõlked DATE funktsiooniks
+Eesti keeles Päev ja kuu
 
 <br>
 Näidis
